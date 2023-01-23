@@ -3,7 +3,7 @@ package ocp_17_prep.src;
 public class TestJava {
     public static void main(String [] args){
         //add teste code here
-
+        float value = 102.0f;
         //add any print statement here
         System.out.println("Hello world: OCP 17");
 
